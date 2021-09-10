@@ -1,0 +1,40 @@
+
+UTC_offset,Locations,Time Zone
+UTC-12:00,Pacific Islands
+UTC-11:00,Pacific Islands & New Zealand_Niue
+UTC-10:00,"Pacific Islands & New Zealand_Cook Islands, Hawaii, Alaska_Aleutian Islands"
+UTC-09:30,"French Polynesia_Marquesas Islands"
+UTC-09:00,"French Polynesia_Gambier Islands, Alaska"
+UTC-08:00,"Los Angeles, Vancouver, Tijuana",Pacific Time Zone
+UTC-07:00,"Denver, Edmonton, Ciudad Juarez",Mountain Time Zone
+UTC-06:00,"Mexico City, Chicago, Winnipeg",Central Time Zone 
+UTC-05:00,"New York, Toronto, Havana",Eastern Time Zone
+UTC-04:00,"Halifax, Prince Edward Island, Puerto Rico",Atlantic Time Zone
+UTC−03:30,Newfoundland & Labrador,Newfoundland Time Zone
+UTC−03:00,"São Paulo, Buenos Aires, Montevideo"
+UTC−02:00,"UK_South Sandwich Islands"
+UTC−01:00,"Portugal_Azores Islands"
+UTC-00:00,"London, Dublin, Lisbon"
+UTC+01:00,"Berlin, Rome, Paris, Madrid"
+UTC+02:00,"Cairo, Johannesburg, Kyiv, Athens"
+UTC+03:00,"Moscow, Istanbul, Riyadh, Baghdad"
+UTC+03:30,Iran_Tehran
+UTC+04:00,"Dubai, Baku, Tbilisi, Yerevan"
+UTC+04:30,Afghanistan_Kabul
+UTC+05:00,"Karachi, Tashkent, Yekaterinburg"
+UTC+05:30,"India, Sri Lanka"
+UTC+05:45,Nepal_Kathmandu
+UTC+06:00,"Dhaka, Almaty, Omsk"
+UTC+06:30,"Australia_Cocos Keeling Islands, Myanmar"
+UTC+07:00,"Jakarta, Ho Chi Minh City, Bangkok"
+UTC+08:00,"Shanghai, Taipei, Singapore, Perth, Manilla"
+UTC+08:45,Australia_Western_Eucla
+UTC+09:00,"Tokyo, Seoul, Pyongyang"
+UTC+09:30,Australia_New South Wales
+UTC+10:00,"Australia_Queensland, Papua New Guinea, Guam"
+UTC+10:30,Australia_New South Wales_Lord Howe Island
+UTC+11:00,"Australia_Norfolk Island, Solomon Islands, Vanuatu"
+UTC+12:00,"Fiji, New Zealand, Tuvalu"
+UTC+12:45,New Zealand_Chatham Islands
+UTC+13:00,"New Zealand_Tokelau, Samoa, Tonga"
+UTC+14:00,Kiribati_Line Islands
